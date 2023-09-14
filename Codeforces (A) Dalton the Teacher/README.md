@@ -1,5 +1,7 @@
 ### Explanation
 
+_to understand the context please see the detail problem at https://codeforces.com/problemset/problem/1855/A_
+
 The problem basically ask you to **automatically assigned every student with different seat** (User input cannot be same with the array index) and then **count how many changes** that you need to make.
 
 So first I start by making an array starting from index **1** to **_n_** number (I'll use 5 as an example). The index acts as seat number. 
